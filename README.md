@@ -144,7 +144,10 @@ Issues und Pull Requests sind willkommen!
 Dieses Repository ist eine **unabhängige Lernressource**, inspiriert von der [DevOps Roadmap](https://roadmap.sh/devops).
 Alle Inhalte wurden eigenständig erstellt und stehen unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-**roadmap.sh** und deren Inhalte gehören [roadmap.sh](https://roadmap.sh) und unterliegen deren [Terms of Use](https://roadmap.sh/terms).
+**roadmap.sh** und deren Inhalte (einschließlich Grafiken, Texte und Projektdateien) gehören [roadmap.sh](https://roadmap.sh) und unterliegen deren [Terms of Use](https://roadmap.sh/terms).
+
+**Dieses Projekt verwendet keine Grafiken, Texte oder Dateien aus dem roadmap.sh Repository.**
+
 Dieses Projekt ist **nicht offiziell** mit roadmap.sh verbunden oder von ihnen endorsed.
 
 ---
