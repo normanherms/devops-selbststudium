@@ -11,6 +11,7 @@
 Dieser Plan dokumentiert die Verbesserungen und Anpassungen des DevOps-Selbststudiums basierend auf Feedback-Runde vom 2025-10-13.
 
 **Fokus:**
+
 - Realistische Zeitplanung
 - Gezieltes Debugging durch authentische Fehlerszenarien
 - Flexiblere Dokumentation
@@ -23,6 +24,7 @@ Dieser Plan dokumentiert die Verbesserungen und Anpassungen des DevOps-Selbststu
 **Problem:** Die geschätzte Lernzeit ist zu ambitioniert.
 
 **Lösung:**
+
 - [ ] Puffer von +30–40 % auf alle Modulzeitschätzungen
 - [ ] Path I: 60h → 80–90h (8–10 Wochen bei 10h/Woche)
 - [ ] Path II: 70h → 90–100h (9–10 Wochen)
@@ -131,6 +133,7 @@ Dieser Plan dokumentiert die Verbesserungen und Anpassungen des DevOps-Selbststu
 **Datei:** Neue Datei `lehrpfad/chaos-quest-04-security.md`
 
 **Action Items:**
+
 - [ ] 4 Chaos-Quest-Dateien erstellen
 - [ ] In entsprechenden Modulen verlinken
 - [ ] Quest-System aktualisieren (quest-path_I.md, quest-path_II.md, quest-path_III.md)
@@ -174,6 +177,7 @@ Dieser Plan dokumentiert die Verbesserungen und Anpassungen des DevOps-Selbststu
 Aktuelles Template beibehalten, aber als optional markieren.
 
 **Action Items:**
+
 - [ ] `lernjournal/template-kurz.md` erstellen
 - [ ] `lernjournal/template-voll.md` umbenennen (aktuelles template.md)
 - [ ] In README.md beide Varianten erklären
@@ -250,6 +254,7 @@ Problem → Analyse → Lösung (3-5 Sätze)
 ```
 
 **Action Items:**
+
 - [ ] Template erstellen: `show-and-tell-template.md`
 - [ ] In jedem Quest-Path verlinken
 - [ ] Optional: Video/Audio-Variante erwähnen
@@ -312,6 +317,7 @@ Jedes gelöste Problem = mindestens 3 Sätze Dokumentation:
 ```
 
 **Action Items:**
+
 - [ ] `LERNREGELN.md` im Repository-Root erstellen
 - [ ] In README.md unter "Nutzungsempfehlung" verlinken
 
@@ -344,6 +350,7 @@ Jedes gelöste Problem = mindestens 3 Sätze Dokumentation:
 ```
 
 **Action Items:**
+
 - [ ] Ressourcen-Sektion in LERNREGELN.md aufnehmen
 - [ ] Bei Chaos Quests alternative externe Labs verlinken
 
@@ -376,6 +383,7 @@ Jedes gelöste Problem = mindestens 3 Sätze Dokumentation:
 ```
 
 **Action Items:**
+
 - [ ] Changelog-Sektion in `iteration-plan.md` anlegen
 - [ ] Git-Tag `v1.1` nach Abschluss dieser Iteration setzen
 
@@ -384,17 +392,20 @@ Jedes gelöste Problem = mindestens 3 Sätze Dokumentation:
 ## 9. Priorisierung der Tasks
 
 ### Must Have (vor Start von Modul 0)
+
 - [x] LERNREGELN.md erstellen
 - [ ] Zeitplanung in lehrplan.md anpassen
 - [ ] Lernjournal Kurzversion erstellen
 - [ ] Self-Review-Checkliste anlegen
 
 ### Should Have (vor Path I Abschluss)
+
 - [ ] Chaos Quest 01 (CI) erstellen
 - [ ] GitHub Discussions aktivieren
 - [ ] Show & Tell Template
 
 ### Nice to Have (iterativ)
+
 - [ ] Chaos Quests 02-04
 - [ ] Externe Debugging-Ressourcen sammeln
 - [ ] Feedback-Log nach jedem Path
@@ -404,6 +415,7 @@ Jedes gelöste Problem = mindestens 3 Sätze Dokumentation:
 ## 10. Changelog
 
 ### v1.1 (geplant 2025-10-14)
+
 - ➕ Zeitplanung um 30-40% erhöht
 - ➕ LERNREGELN.md hinzugefügt
 - ➕ Lernjournal Kurzversion (template-kurz.md)
@@ -413,6 +425,7 @@ Jedes gelöste Problem = mindestens 3 Sätze Dokumentation:
 - ➕ GitHub Discussions als Kommunikationskanal
 
 ### v1.0 (2025-10-12)
+
 - ✅ Initiales Curriculum (15 Module, 3 Paths)
 - ✅ Quest-System mit XP-Tracking
 - ✅ Lernjournal-Template (Vollversion)
